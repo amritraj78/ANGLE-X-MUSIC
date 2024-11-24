@@ -1,7 +1,7 @@
 {
-    "name": "TANU MUSIC",
+    "name": "ANGLE MUSIC",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg",
+    "logo": "https://files.catbox.moe/0kpdw9.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "6922271843",
+        "value": "7745014754",
         "required": true
       },
       "STRING_SESSION": {
